@@ -13,7 +13,7 @@
 ## Back
 | High level | Medium level | Low level |
 |------------|--------------|-----------|
-| ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23DD0031.svg?style=for-the-badge&logo=spring&logoColor=white&color=green) | | |
+| | ![SpringBoot](https://img.shields.io/badge/SpringBoot-%23DD0031.svg?style=for-the-badge&logo=spring&logoColor=white&color=green) | |
 
 
 ## Development tools
