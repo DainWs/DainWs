@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Antonio Duarte Pérez</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dainws" alt="dainws" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dainws" alt="dainws" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
